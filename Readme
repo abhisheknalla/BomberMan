@@ -1,4 +1,4 @@
-Description: [](https://github.com/abhisheknalla/BomberMan/blob/master/Problem.pdf)
+Description: [Game Requirements](https://github.com/abhisheknalla/BomberMan/blob/master/Problem.pdf)
 
 Installation:
 pip3 install termcolor
